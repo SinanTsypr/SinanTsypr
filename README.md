@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
+<img align="right" alt="Coding" width="100" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
 
 - ⚡ Fun fact **I'm just a Developer..**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
