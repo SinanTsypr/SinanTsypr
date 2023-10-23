@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **sinantasyapar@gmail.com**
 
-- ⚡ Fun fact **Fun fact I'm just a Developer..**
+- ⚡ **Fun fact I'm just a Developer..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
